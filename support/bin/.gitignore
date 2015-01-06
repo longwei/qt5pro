@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+
+!scripts
+!*.bender
+
+!*.qrc
